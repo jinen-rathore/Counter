@@ -4,6 +4,6 @@
 
 ## screenshots: 
 
-![](screenshots\Screenshot%202022-01-19%20150318.png)
+![](./screenshots/Screenshot%202022-01-19%20150318.png)
 
-![](screenshots\Screenshot%202022-01-19%20150348.png)
+![](./screenshots/Screenshot%202022-01-19%20150348.png)
