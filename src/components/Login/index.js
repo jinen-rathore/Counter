@@ -39,7 +39,6 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
         marginTop: 10,
         borderRadius: 5,
-        width: '17%'
-
+        padding: '2%',
     }
 });
