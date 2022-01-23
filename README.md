@@ -1,6 +1,6 @@
 # Counter app
  
- In this project I created a very simple login page using React Native
+ In this project I created a very simple  counter app using React Native
 
 ## screenshots: 
 
