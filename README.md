@@ -1,4 +1,4 @@
-# Android-Club
+# Counter app
  
  In this project I created a very simple login page using React Native
 
